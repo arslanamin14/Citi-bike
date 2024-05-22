@@ -1,0 +1,1 @@
+This project provides a comprehensive analysis of Citi Bike usage data. It includes data preprocessing, exploratory data analysis, and visualization of key metrics such as trip duration, popular stations, and user demographics. The analysis explores trends over time and provides insights into bike-sharing patterns in New York City
